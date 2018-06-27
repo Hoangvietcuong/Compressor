@@ -11,12 +11,13 @@ Account Information:
     +) Option 2: Open terminal then type "./compressor.sh" Enter.
 
 # How to update software:
-1) Open terminal:
+#At the first time update:
+#Open terminal:
    rm -rf Compressor compressor.sh compressor/
-   cd Desktop/
-   rm -rf Compressor compressor.sh
-   cd ..
-   git clone https://github.com/Hoangvietcuong/Compressor.git
+   rm -rf /home/metran/Compressor /home/metran/compressor.sh
+   git clone https://github.com/Hoangvietcuong/Compressor.git 
    cd Compressor/
-   cp compressor compressor.sh /home/metran/Desktop/
+   cp compressor compressor.sh update.sh /home/metran/Desktop/
    
+#In the next time update:
+  Just double click in to file name "update.sh" and choose "excute"
