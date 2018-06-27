@@ -9,7 +9,9 @@ Account Information:
 # How to run Compressor Application
     +) Option 1: Double click to file name "compressor.sh" , then click "excute"
     +) Option 2: Open terminal then type "./compressor.sh" Enter.
-
+# How the system work
+   The application controls two compressor independently and  update the speed of each compressor each 0.5s
+   for more information about the way application controls compressor, please see the image in same folder.
 # How to update software:
 #At the first time update:
 #Open terminal:
