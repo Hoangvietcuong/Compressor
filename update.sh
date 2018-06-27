@@ -1,3 +1,4 @@
+
    rm -rf Compressor
    cd Desktop/
    rm -rf compressor compressor.sh
