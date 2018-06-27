@@ -17,7 +17,7 @@ Account Information:
    rm -rf /home/metran/Compressor /home/metran/compressor.sh
    git clone https://github.com/Hoangvietcuong/Compressor.git 
    cd Compressor/
-   cp compressor compressor.sh update.sh /home/metran/Desktop/
+   cp -f compressor compressor.sh update.sh /home/metran/Desktop/
    
 #In the next time update:
   Just double click in to file name "update.sh" and choose "excute"
